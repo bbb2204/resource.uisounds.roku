@@ -12,7 +12,7 @@
 	<news>[B]1.0.0[/B][CR]- Initial version</news>
 	<assets>
       <icon>icon.png</icon>
-      <fanart>fanart.jpg</fanart>
+      <fanart>fanart.png</fanart>
     </assets>
   </extension>
 </addon>
